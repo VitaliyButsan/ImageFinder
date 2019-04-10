@@ -1,2 +1,3 @@
 # ImageFinder
-Image finder by input word, using IP. Swift 4.2
+— Image finder by input word, using IP. 
+— Swift 4.2
